@@ -1,2 +1,4 @@
 first line
 secon line and my first bash commit
+third line in mybranch
+forth line in mybranch
