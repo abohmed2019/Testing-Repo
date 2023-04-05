@@ -2,3 +2,5 @@ first line
 secon line and my first bash commit
 third line in mybranch
 forth line in mybranch
+------------
+fifth line after push done by link upstream
